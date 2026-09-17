@@ -1,0 +1,5 @@
+璃谱 1.0.0 uses the Spotify Basic Pitch model and adapts parts of its inference
+and note creation code. Basic Pitch is Copyright Spotify AB, licensed under
+Apache License 2.0. See Basic-Pitch-LICENSE.txt.
+
+Original project: https://github.com/spotify/basic-pitch

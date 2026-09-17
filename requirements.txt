@@ -1,0 +1,9 @@
+numpy==1.26.4
+onnxruntime==1.18.1
+scipy>=1.10.0
+librosa>=0.10.0
+soundfile>=0.12.1
+pretty_midi>=0.2.10
+mir_eval>=0.7
+resampy>=0.4.0
+typing_extensions>=4.0
